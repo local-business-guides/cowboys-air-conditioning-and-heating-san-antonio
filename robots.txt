@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/sitemap.xml
+Sitemap: https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/news-sitemap.xml

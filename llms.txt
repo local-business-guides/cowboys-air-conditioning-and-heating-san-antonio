@@ -27,6 +27,9 @@
 - [Air Conditioning Repair San Antonio Homeowners Can Plan For](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/air-conditioning-repair-san-antonio/): Air conditioning repair San Antonio homeowners can arrange with 24/7 answers from a local HVAC team.
 - [TX San Antonio Homeowners’ Guide to Choosing HVAC Help](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/tx-san-antonio/): TX San Antonio HVAC guidance for repairs, maintenance, and system planning in San Antonio.
 
+## Newsroom
+- [Cowboys Air Conditioning & Heating Publishes AC Repair Guide](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/news/2026-10-26-cowboys-air-conditioning-heating-publishes-ac-repa/): The San Antonio HVAC company published a guide, a YouTube video and a podcast episode about AC repair. (2026-10-26)
+
 ## Pages
 - [AC Repair San Antonio, TX in Texas](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/): Get help with cooling or heating trouble from a San Antonio team whose dispatch answers 24/7, holidays included. Call +1210-495-7771.
 - [About Cowboys Air Conditioning & Heating](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/about/): About Cowboys Air Conditioning & Heating, San Antonio.
@@ -34,3 +37,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cowboys-air-conditioning-and-heating-san-antonio/news/rss.xml)
